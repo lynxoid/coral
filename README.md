@@ -14,7 +14,7 @@ Requirements
 
 Running
 --------------
- - on MacOS: use Coral.app
+ - on MacOS: use <code>Coral.app</code>
  - from command line: <code>./coral</code>
 
 TODO
