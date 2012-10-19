@@ -12,10 +12,14 @@ Requirements
 -------------
  - Java 1.6 or newer
 
-Running
+Download
 --------------
- - on MacOS: use <code>Coral.app</code>
- - from command line: <code>./coral</code>
+From the <code>bin</code> folder:
+  - Windows: <code>coral.zip</code>. Run with <code>java -jar coral.jar</code>.
+  - MacOS: <code>coral_mac.zip</code>. Double-click on <code>coral.app</code> to run.
+  - Linux: <code>coral.tar.gz</code>. To run from command-line, use <code>./coral</code>
+or <code>java -jar coral.jar</code>
+
 
 TODO
 --------------
