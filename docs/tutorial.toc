@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Overview}{2}{section.1}
+\contentsline {section}{\numberline {2}Running \leavevmode {\color {RedOrange}\textbf {C}}oral\xspace }{2}{section.2}
+\contentsline {section}{\numberline {3}Loading data}{2}{section.3}
+\contentsline {section}{\numberline {4}Using \leavevmode {\color {RedOrange}\textbf {C}}oral\xspace views}{3}{section.4}
+\contentsline {subsection}{\numberline {4.1}Co-cluster matrix}{3}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Reordering matrix}{4}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Selecting a base matrix}{5}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Item pairs table}{5}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Parallel partitions}{6}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Module-to-module table}{7}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Ladder widget}{7}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Overview statistics}{7}{subsection.4.6}
+\contentsline {section}{\numberline {5}Similarity metrics}{7}{section.5}
+\contentsline {section}{\numberline {6}Managing windows}{8}{section.6}
+\contentsline {section}{\numberline {7}Clustering algorithms}{8}{section.7}
+\contentsline {section}{\numberline {8}Errors and exceptions}{8}{section.8}
+\contentsline {section}{\numberline {9}Symbols}{8}{section.9}
